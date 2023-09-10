@@ -407,7 +407,7 @@
     {
       "CatalogNumber": "21130",
       "IsDigital": false,
-      "ImageURL": "https://scarlet-website.github.io/api-data/books_cover/21130.jpeg",
+      "ImageURL": "https://scarlet-website.github.io/api-data/books_cover/21130.jpg",
       "Description": "שלושה ספרי הוצאת סקרלט לבחירה במחיר מיוחד",
       "Info": "",
       "UnitPrice": 150.0,
@@ -418,7 +418,7 @@
     {
       "CatalogNumber": "21140",
       "IsDigital": false,
-      "ImageURL": "https://scarlet-website.github.io/api-data/books_cover/21140.jpeg",
+      "ImageURL": "https://scarlet-website.github.io/api-data/books_cover/21140.jpg",
       "Description": "ארבעה ספרי הוצאת סקרלט לבחירה במחיר מיוחד",
       "Info": "",
       "UnitPrice": 190.0,
